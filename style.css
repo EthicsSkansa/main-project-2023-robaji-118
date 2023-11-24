@@ -104,3 +104,7 @@ body {
     background: transparent;
     color: #00abf0;
 }
+
+.btn-box a::before{
+    content: '';
+}
